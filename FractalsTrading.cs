@@ -543,6 +543,7 @@ namespace TSLab.TraidingLaboratory.Strategies
 
             }
 
+
             #endregion
             
             
